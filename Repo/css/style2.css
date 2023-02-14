@@ -1,0 +1,41 @@
+body{
+	background: #333;
+	color:#fff;
+}
+.navbar{
+	border-bottom: 3px solid #0084d6;
+	opacity: 0.8;
+
+}
+.navbar-nav .nav-item .nav-link {
+	color: #fff;
+	text-decoration: none;
+}
+#home-section{
+	background: url('../img/home-bg.jpg') no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 750px;
+}
+.dark-overlay{
+	background: rgba(0,0,0,0.6);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 750px;
+
+}
+.home-inner{
+	padding: 150px;
+}
+.card-form{
+	opacity: 0.8;
+}
+.fa{
+	color:#0084d6;
+	background: #fff;
+	font-size: 30px;
+	padding: 4px;
+	border-radius: 5px;
+}
