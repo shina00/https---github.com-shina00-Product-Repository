@@ -170,7 +170,7 @@ color: #EC2D31;
 */
 
 .main-item {
-    font-size: 14px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
     color: #101010;
@@ -179,7 +179,7 @@ color: #EC2D31;
 
 .sublink {
     color: #101010;
-    font-size: 12px;
+    font-size: 10px;
     font-style: normal;
     font-weight: 400;
 }
@@ -212,7 +212,7 @@ color: orangered;
 }
 
 .mainsubmenu {
-    font-size: 14px !important;
+    font-size: 10px !important;
 }
 
 #firsts a.active {
